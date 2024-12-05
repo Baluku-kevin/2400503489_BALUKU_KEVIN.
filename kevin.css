@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    /* line-height: 1.6; */
+    background-color: rgb(1, 1, 2);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+div class-card-border{
+    card-border-shodow: grey;
+}
+
+
